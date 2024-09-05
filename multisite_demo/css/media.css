@@ -1,0 +1,2131 @@
+@media screen and (max-width:2400px) {
+	.main-navigation li {
+		padding: 20px 26px;
+	}
+
+	.slide.slick-slide.slick-current.slick-active::before {
+		height: 7px;
+	}
+
+	.team-first-row {
+		padding: 20px 10px 0 15px;
+	}
+
+	.score-slider .slick-prev,
+	.score-slider .slick-prev:focus {
+		padding: 0 24px 0 15px;
+	}
+
+	.score-slider .slick-next,
+	.score-slider .slick-next:focus {
+		padding: 0 24px 0 15px;
+	}
+
+	.inner-team-part {
+		padding: 4px 12px;
+	}
+
+	.social-button {
+		width: 35px;
+		height: 35px;
+	}
+
+	#search-icon {
+		font-size: 30px;
+		padding: 0 20px;
+	}
+
+	.main-navigation {
+		width: 84%;
+	}
+
+	#search-popup-content {
+		max-width: 378px;
+		width: 80%;
+		padding: 15px;
+	}
+
+	input.search-field {
+		font-size: 16px;
+		line-height: 0;
+	}
+
+	input.search-submit {
+		font-size: 17px;
+		padding: 11px 10px;
+	}
+
+	#close-icon {
+		font-size: 40px;
+		top: -18px;
+		right: 0;
+	}
+}
+
+/* ---------------------------------------------------------------------------- */
+@media screen and (max-width:1920px) {
+
+	/* .main-navigation li {
+	padding:20px;
+} */
+	.social-back {
+		max-width: 363px;
+	}
+
+	.social-icon-part::before {
+		max-width: 354px;
+	}
+}
+
+/* ---------------------------------------------------------------------------- */
+@media screen and (max-width:1750px) {
+	.grid-box-section .image-player-image {
+		right: 0;
+	}
+
+	.schudule-section .section-content {
+		width: 94%;
+	}
+
+	.main-navigation li {
+		padding: 20px;
+	}
+}
+
+/* ---------------------------------------------------------------------------- */
+@media (min-width:1600px) and (max-width:1750px) {
+	.grid-box-section .show-post-left {
+		right: -15px;
+	}
+
+	.box-right {
+		width: 42%;
+	}
+
+	.box-4-main .image-box {
+		width: 70%;
+	}
+
+	.schudule-section .section-content {
+		width: 100%;
+	}
+}
+
+/* ---------------------------------------------------------------------------- */
+@media screen and (max-width:1600px) {
+	input.search-submit {
+		font-size: 16px;
+		padding: 10px 9px;
+	}
+
+	input.search-field {
+		font-size: 16px;
+		line-height: 0;
+	}
+
+	.main-navigation li {
+		padding: 10px;
+	}
+
+	.search-form {
+		border: 5px solid;
+	}
+
+	.score-slider .slick-next,
+	.score-slider .slick-next:focus {
+		padding: 0 8px 0 9px;
+		background-size: 40%;
+		width: 30px;
+	}
+
+	.score-slider .slide {
+		margin: 0 5px;
+	}
+
+	.score-slider .slick-prev,
+	.score-slider .slick-prev:focus {
+		padding: 0 8px 0 9px;
+		left: -52px;
+		background-size: 40%;
+		width: 30px;
+	}
+
+	.social-button {
+		width: 24px;
+		height: 24px;
+		margin: 0 12px;
+	}
+
+	.search-icon {
+		font-size: 17px;
+		padding: 8px;
+	}
+
+	.social-back {
+		max-width: 260px;
+	}
+
+	header::after {
+		height: 53px;
+		max-width: 2%;
+	}
+
+	.team-logo {
+		width: 45px;
+	}
+
+	.score-slider .teams-part .team .team-score-number .team-name {
+		margin-top: 6px;
+	}
+
+	.score-slider .slick-prev,
+	.score-slider .slick-prev:focus {
+		left: -45px;
+	}
+
+	.score-slider .slick-next,
+	.score-slider .slick-next:focus {
+		right: -52px;
+	}
+
+	.top-row {
+		padding: 50px 0;
+	}
+
+	.social-icon-part::before {
+		max-width: 254px;
+	}
+
+	.score-slider {
+		width: 75%;
+		margin-top: 12px;
+		margin-bottom: 5px;
+	}
+
+	.grid-box-section .show-post-left {
+		max-width: 541px;
+	}
+
+	.news-slider .post-thumbnail {
+		height: 497px;
+	}
+
+	.ticket-text h3 {
+		font-size: 36px;
+	}
+
+	.buy-ticket-container .ticket-text::before {
+		max-width: 60px;
+	}
+
+	.see-text {
+		font-size: 1.1rem;
+	}
+
+	.official-text p {
+		font-size: 20px;
+		line-height: 26px;
+	}
+
+	h3 {
+		font-size: 24px;
+	}
+
+	h1 {
+		font-size: 34px;
+		line-height: 40px;
+	}
+
+	.headline li a {
+		font-size: 17px;
+		line-height: 15px;
+	}
+
+	.sub-heading p {
+		font-size: 17px;
+		line-height: 22px;
+	}
+
+	.sub-heading {
+		padding: 0 0 10px 0;
+	}
+
+	.banner {
+		padding: 60px 0;
+	}
+
+	.show-post-section .show-post-left {
+		max-width: 405px;
+		height: 100%;
+		min-height: 836px;
+	}
+
+	h4 {
+		font-size: 19px;
+	}
+
+	.box-4-text {
+		padding: 33.5px;
+	}
+
+	.grid-box-section .box-2 .image-box {
+		padding: 75px;
+	}
+
+	.grid-box-section .box-1 .image-box {
+		padding: 147px;
+	}
+
+	.news-slider.slick-dotted.slick-slider {
+		margin: 0;
+		height: 520px;
+	}
+
+	.see-all-section .match-row .team-logo {
+		width: 60px;
+	}
+
+	.match-row {
+		padding: 18px 0px;
+	}
+
+	.main-match-score {
+		padding: 15px;
+	}
+
+	.leader {
+		max-width: 197px;
+		padding: 0;
+	}
+
+	.score-value p {
+		font-size: 36px;
+		line-height: 40px;
+	}
+
+	.see-all-main-left.col-3 {
+		width: 30%;
+	}
+
+	.leader .team-name p {
+		font-size: 16px;
+	}
+
+	.leader::before {
+		border-bottom: solid 10px #ed1f23;
+		border-right: solid 10px #ed1f23;
+		border-left: solid 10px transparent;
+		border-top: solid 10px transparent;
+	}
+
+	.section {
+		padding: 60px 0;
+	}
+
+	.partner-logo-list a {
+		max-width: 351px;
+		padding: 20px 30px;
+	}
+
+	.partner-logo-list {
+		padding: 20px 0 0 0;
+	}
+
+	.grid-box-section .show-post-left {
+		max-width: 394px;
+		right: 0;
+	}
+
+	.show-post-section .news-post,
+	.blog-list {
+		max-width: 248px;
+	}
+
+	.show-post-section .show-post-right {
+		width: 100%;
+	}
+
+	.box-right {
+		width: 42%;
+	}
+
+	.box-4-main .image-box {
+		width: 84%;
+	}
+
+	.official-text {
+		width: 23%;
+	}
+
+	h2 {
+		font-size: 36px;
+	}
+
+	.box-right .box-discription {
+		padding-bottom: 22px;
+	}
+
+	.image-player-image {
+		right: 0;
+	}
+
+	.news-slider .slick-dots {
+		top: 456px;
+	}
+
+	.box-title {
+		line-height: 28px;
+	}
+
+	.box-right .box-description {
+		padding: 0;
+	}
+
+	.main-box-left {
+		padding: 0;
+	}
+
+	.home #posts-container .slick-track .news-post {
+		width: 280px !important;
+	}
+
+	.schudule-section .section-content {
+		width: 100%;
+	}
+
+	.main-match {
+		width: 81%;
+	}
+
+	.team-score p {
+		font-size: 2rem;
+	}
+
+	.all-team-details .col-4 {
+		margin: 30px 0 60px 0;
+	}
+
+	.content-main p {
+		margin: 0;
+	}
+
+	blockquote p:last-child .col-5 {
+		font-size: 50px;
+		line-height: 50px;
+	}
+
+	.team-store-section .row,
+	.woocommerce ul.products {
+		margin: 40px;
+	}
+
+	.woocommerce ul.products li {
+		padding: 30px 30px 0 30px;
+	}
+	
+	.row {
+		margin: 0;
+	}
+}
+
+/* ---------------------------------------------------------------------------- */
+@media screen and (max-width:1400px) {
+	.main-navigation li {
+		padding: 10px 18px;
+	}
+
+	.site-branding {
+		max-width: 200px;
+		min-height: 230px;
+	}
+
+	.custom-logo-link {
+		width: 170px;
+		padding: 30px 0 0 0;
+	}
+
+	.team-logo {
+		width: 40px;
+	}
+
+	.score-slider {
+		margin-top: 10px;
+	}
+
+	.score-slider {
+		width: 73%;
+	}
+
+	.buy-ticket-container .ticket-text::before {
+		max-width: 50px;
+		height: 56px;
+	}
+
+	.score-slider .teams-part .team {
+		margin-bottom: 5px;
+	}
+
+	.score-slider .teams-part .team .team-score-number p {
+		line-height: 16px;
+	}
+
+	.score-slider .teams-part .team .team-score-number .team-score {
+		line-height: 28px;
+		font-size: 22px;
+	}
+
+	.main-navigation a {
+		font-size: 16px;
+	}
+
+	h3 {
+		font-size: 20px;
+	}
+
+	p,
+	li {
+		font-size: 16px;
+	}
+
+	.top-row {
+		padding: 35px 0;
+	}
+
+	.official-text p {
+		font-size: 20px;
+		padding: 0 10px 0 0;
+	}
+
+	.social-button {
+		margin: 0 10px;
+	}
+
+	.news-slider .slick-slide img {
+		height: 457px;
+	}
+
+	.headline-title {
+		line-height: 15px;
+	}
+
+	.headline li a {
+		font-size: 18px;
+	}
+
+	h2 {
+		font-size: 30px;
+		line-height: 34px;
+	}
+
+	.buy-ticket-container .ticket-text {
+		padding: 48px 0;
+	}
+
+	.official-text {
+		width: 28%;
+	}
+
+	h1 {
+		font-size: 30px;
+		line-height: 36px;
+	}
+
+	.sub-heading p {
+		font-size: 16px;
+		line-height: 20px;
+	}
+
+	.news-slider .post-content {
+		padding: 15px 8px;
+	}
+
+	.read-more-btn .read-more,
+	.headline .button-main a {
+		font-size: 17px;
+	}
+
+	.main-show-post.d-flex {
+		flex-wrap: wrap;
+		flex-direction: column-reverse;
+	}
+
+	.show-post-section .news-post,
+	.blog-list {
+		max-width: 275px;
+	}
+
+	.show-post-section .show-post-left {
+		max-width: 384px;
+		min-height: 792px;
+		margin: 0 auto;
+		left: 0;
+		right: 0;
+	}
+
+	.one-image-container {
+		padding: 0;
+	}
+
+	.show-post-section .show-post-right {
+		width: 100%;
+		margin: 0;
+	}
+
+	.grid-box-section .row {
+		flex-direction: row-reverse;
+		flex-wrap: wrap;
+	}
+
+	.social-back {
+		max-width: 240px;
+	}
+
+	.social-icon-part::before {
+		max-width: 232px;
+	}
+
+	.grid-box-section .one-image-container {
+		padding: 100px 0 0 0;
+	}
+
+	.box-4-main .image-box {
+		width: 82%;
+	}
+
+	.grid-box-section .box-1 .image-box {
+		padding: 158px;
+	}
+
+	.see-all-main.d-flex {
+		flex-wrap: wrap;
+	}
+
+	.leaders-row {
+		justify-content: center;
+	}
+
+	.match-score-details {
+		column-count: 4;
+	}
+
+	.see-all-main-left.col-3,
+	.see-all-main .col-7,
+	.see-all-section .col-3 {
+		width: 100%;
+	}
+
+	.standings-title {
+		padding: 0 0 10px 0;
+	}
+
+	.see-all-main .col-7 {
+		padding: 40px 0 0 0;
+		margin: 0 auto;
+		width: 71%;
+	}
+
+	.section {
+		padding: 40px 0;
+	}
+
+	.partner-logo-list a {
+		max-width: 260px;
+	}
+
+	.show-post-section .show-post-left,
+	.grid-box-section .show-post-left {
+		display: none;
+	}
+
+	.buy-ticket-container .bottom-row::before,
+	.buy-ticket-container .bottom-row {
+		min-height: 115px;
+	}
+
+	.buy-ticket-container .bottom-row::before {
+		top: -5px;
+	}
+
+	.image-player-image {
+		display: none;
+	}
+
+	.main-navigation {
+		width: 91%;
+	}
+
+	.mlr-logo {
+		max-width: 50px;
+		max-height: 56px;
+		left: 50px;
+		margin: 2px 0 0 0;
+	}
+
+	.box-right,
+	.box-left {
+		width: 50%;
+	}
+
+	.box-right .box-description {
+		padding-bottom: 18px;
+	}
+
+	.league-leaders {
+		padding: 0;
+	}
+
+	.partner-logo-list {
+		width: 70%;
+		margin: 0 auto;
+	}
+
+	.news-post {
+		max-width: 290px;
+	}
+
+	.teamname-ticketlink .team-name,
+	.teamname-ticketlink .ticket-link {
+		width: 100%;
+	}
+
+	.teamname-ticketlink .ticket-link::before {
+		max-width: 100%;
+		clip-path: none;
+	}
+
+	.teamname-ticketlink .ticket-link::after {
+		display: none;
+	}
+
+	.teamname-ticketlink .button {
+		margin: 0;
+	}
+
+	.all-team-details .col-4 {
+		margin: 20px 0 40px 0;
+	}
+
+	.team-store-section .row {
+		margin: 0;
+	}
+
+	.section-title {
+		padding: 10px 0;
+	}
+
+	.store-item .product-sub-title,
+	.product-details {
+		padding: 10px 0;
+		font-size: 16px;
+		line-height: 22px;
+	}
+
+	.product-details {
+		padding: 10px;
+		margin: 10px 0;
+	}
+
+	.size-category {
+		padding: 10px 0;
+	}
+
+	.store-item .button-main {
+		margin: 10px 0;
+	}
+
+	.gallery-item img {
+		max-width: 500px;
+	}
+
+	.thumbnails-slider {
+		max-width: 423px;
+	}
+
+	.thumbnails-slider .thumbnail-item {
+		max-width: 140px;
+	}
+
+	.content p:nth-child(2),
+	blockquote.d-flex {
+		display: block;
+		margin: 20px 0;
+	}
+
+	.main-content-part .col-7 {
+		padding: 0 60px 0 0;
+	}
+
+	.single-news #posts-container {
+		width: 100%;
+	}
+
+	.content blockquote p:nth-child(2) {
+		width: 100%;
+		line-height: 30px;
+		display: block;
+		margin: 20px 0;
+	}
+
+	#gform_fields_2 input,
+	.gform-theme--foundation .gfield textarea.large {
+		padding: 30px 20px;
+		font-size: 20px;
+	}
+
+	#gform_fields_2 #field_2_1 .gfield_label.gform-field-label {
+		font-size: 20px;
+		padding: 0 0 10px 0;
+	}
+	.ticket-section .teamname-ticketlink .ticket-link::before{
+		max-width: 100%;
+	}
+
+}
+
+/* ---------------------------------------------------------------------------- */
+@media screen and (max-width:1200px) {
+
+	.score-slider .slick-prev,
+	.score-slider .slick-prev:focus {
+		left: -39px;
+	}
+
+	.score-slider .slick-next,
+	.score-slider .slick-next:focus {
+		right: -46px;
+	}
+
+	.main-navigation li {
+		padding: 10px 14px;
+		text-align: start;
+	}
+
+	.social-icon-part {
+		margin-left: 0;
+		clip-path: none;
+	}
+
+	.social-icon-part::after {
+		display: none;
+	}
+
+	.main-navigation {
+		width: 100%;
+	}
+
+	.social-button {
+		margin: 0 10px;
+	}
+
+	.top-row {
+		padding: 50px 0;
+	}
+
+	.social-icon-part::before {
+		max-width: 223px;
+	}
+
+	.main-navigation a {
+		font-size: 16px;
+	}
+
+	.team-first-row {
+		padding: 15px 5px 0 10px;
+	}
+
+	.score-slider .teams-part .team .team-score-number .team-score,
+	.score-slider * p {
+		font-size: 16px;
+	}
+
+	.score-slider {
+		width: 70%;
+	}
+
+	.post-content p {
+		font-size: 18px;
+		line-height: 26px;
+	}
+
+	.show-post-section .news-post,
+	.blog-list {
+		max-width: 459px;
+	}
+
+	.buy-ticket-container .d-flex {
+		min-height: 136px;
+	}
+
+	.ticket-text h3 {
+		font-size: 20px;
+	}
+
+	.see-text {
+		font-size: 16px;
+	}
+
+	.official-text p {
+		font-size: 18px;
+	}
+
+	.headline {
+		padding: 10px;
+		margin: 5px 0 0 0;
+	}
+
+	.headline-title {
+		line-height: 40px;
+		padding: 0;
+	}
+
+	.headline ul {
+		padding: 0 10px;
+	}
+
+	.headline li a {
+		font-size: 16px;
+		line-height: 16px;
+	}
+
+	footer #input_1_1 {
+		font-size: 16px;
+		padding: 18px;
+	}
+
+	footer #gform_submit_button_1 {
+		font-size: 16px;
+		padding: 10px 50px;
+	}
+
+	.footer-logo {
+		padding: 50px;
+	}
+
+	.right-footer {
+		padding: 50px;
+	}
+
+	.banner {
+		padding: 30px 0;
+	}
+
+	.show-post-section .post-slide {
+		width: 31.33%;
+	}
+
+	.show-all-post .post-thumbnail {
+		height: 210px;
+	}
+
+	.show-post-section .post-content .post-title {
+		font-size: 16px;
+	}
+
+	.site-branding {
+		max-width: 180px;
+		min-height: 200px;
+	}
+
+	.custom-logo-link {
+		width: 150px;
+	}
+
+	.news-slider .post-thumbnail {
+		height: 352px;
+	}
+
+	.buy-ticket-container .ticket-text {
+		min-height: 120px;
+	}
+
+	h2 {
+		font-size: 26px;
+		line-height: 44px;
+	}
+
+	.buy-ticket-container .ticket-text::before {
+		max-width: 40px;
+		height: 51px;
+	}
+
+	.buy-ticket-container .bottom-row {
+		min-height: 90px;
+		margin: 0 0 0 5px;
+	}
+
+	.buy-ticket-container .headline {
+		padding: 15px 15px 15px 0;
+		margin: 10px 0 0 0;
+	}
+
+	.buy-ticket-container .headline li {
+		padding: 0 0 5px 0;
+	}
+
+	.grid-box-section .box-1 .image-box {
+		padding: 134px;
+	}
+
+	.box-4-text {
+		padding: 16px;
+	}
+
+	.box-4-main .image-box {
+		width: 73%;
+	}
+
+	.box-right,
+	.box-left {
+		margin: 5px 0;
+		padding: 0;
+	}
+
+	.grid-box-section .box-2 .image-box {
+		padding: 68px;
+	}
+
+	.grid-box-section .box-2 .inner-box-2:nth-child(odd) {
+		margin: 0;
+		width: 49.5%;
+	}
+
+	h4 {
+		font-size: 18px;
+	}
+
+	.blog-posts.d-flex {
+		justify-content: center;
+	}
+
+	.buy-ticket-container .bottom-row::before,
+	.buy-ticket-container .bottom-row {
+		min-height: 136px;
+	}
+
+	.mlr-logo {
+		max-width: 48px;
+		max-height: 55px;
+		left: 120px;
+	}
+
+	.official-text {
+		width: 30%;
+	}
+
+	.buy-ticket-container .bottom-row::before {
+		top: -8px;
+	}
+
+	.buy-ticket-container .top-row {
+		border: 4px solid;
+	}
+
+	.headline-title h3 {
+		padding: 0 0 0 10px;
+		border-bottom: 3px solid var(--red-color);
+		margin-bottom: 5px;
+	}
+
+	.box-title {
+		padding: 15px 20px 0 20px;
+		line-height: 22px;
+	}
+
+	.box-left .left-post:not(:first-child) .box-title {
+		padding: 15px 0 15px 0;
+	}
+
+	.box-discription {
+		line-height: 20px;
+		padding: 10px 20px;
+	}
+
+	h4 {
+		font-size: 16px;
+	}
+
+	.box-left .left-post:first-child .box-discription {
+		padding: 10px 19px 28px 19px;
+	}
+
+	.box-right .box-discription {
+		padding-bottom: 10px;
+	}
+
+	.buy-ticket-container a {
+		width: 50%;
+	}
+
+	.buy-ticket-container .d-flex,
+	.buy-ticket-container {
+		flex-direction: row;
+	}
+
+	.news-slider .slick-dots {
+		top: 310px;
+	}
+
+	.box-right,
+	.box-left {
+		width: 100%;
+	}
+
+	.box-right .single-main-text {
+		width: 60%;
+	}
+
+	.see-all-main .col-7 {
+		width: 86%;
+	}
+
+	.schudule-section .team {
+		width: 100%;
+	}
+
+	.match.no-channel-ticket .match-details-part {
+		padding: 0;
+	}
+
+	.day-date-part {
+		width: 62%;
+		padding: 10px;
+	}
+
+	.match-time {
+		width: 30%;
+		margin: 0;
+	}
+
+	.right-player-image {
+		display: none;
+	}
+
+	.match-time-date {
+		padding: 23px 10px;
+		max-width: 270px;
+	}
+
+	.schudule-section .team-logo {
+		width: 50px;
+	}
+
+	.match::before {
+		border-bottom: solid 10px #ed1f23;
+		border-right: solid 10px #ed1f23;
+		border-left: solid 10px transparent;
+		border-top: solid 10px transparent;
+	}
+
+	.buy-ticket a {
+		font-size: 18px;
+		padding: 10px;
+	}
+
+	.main-match {
+		width: 100%;
+	}
+
+	.full-player-details {
+		display: none;
+	}
+
+	.section.schudule-section {
+		min-height: 100%;
+	}
+
+	.channel-ticket-part .channel-image {
+		max-height: 45px;
+	}
+
+	.standings-table {
+		width: 100%;
+		padding: 10px 0;
+		margin: 0;
+	}
+
+	.match-points-fullform ul li {
+		font-size: 16px;
+		line-height: 20px;
+	}
+
+	.match-rules {
+		max-width: 100%;
+	}
+
+	.match-rules ul {
+		padding: 10px 0 10px 30px;
+	}
+
+	.match-rules em {
+		padding: 10px 0 0 0;
+	}
+
+	.standings-table tbody tr td:first-child {
+		font-size: 24px;
+	}
+
+	.standings-table tbody tr td {
+		font-size: 20px;
+	}
+
+	.section.schudule-section,
+	.section.standings-section {
+		min-height: 1250px;
+	}
+
+	.teamname-ticketlink a {
+		line-height: 34px;
+	}
+
+	.all-team-details .col-4 {
+		margin: 10px 0 20px 0;
+		width: 33%;
+		padding: 0 20px;
+	}
+
+	.all-team-details {
+		justify-content: start;
+	}
+
+	.team-store-section .col {
+		padding: 0 20px;
+	}
+
+	.team-store-section .row {
+		margin: 40px;
+	}
+
+	.team-store-section .full-team-logo {
+		padding: 30px 0;
+	}
+
+	.team-store-section .banner-text>h3 {
+		font-size: 30px;
+	}
+
+	.gallery-item img {
+		max-width: 400px;
+	}
+
+	.thumbnails-slider .thumbnail-item {
+		max-width: 105px;
+	}
+
+	.thumbnails-slider {
+		max-width: 350px;
+	}
+
+	.store-item a.button {
+		padding: 10px;
+		max-width: 80%;
+		line-height: 20px;
+	}
+
+	.store-categories li {
+		font-size: 16px;
+	}
+
+	.banner .col-7,
+	.main-banner .col-3 {
+		width: 100%;
+	}
+
+	.main-content-part .col-7,
+	.main-content-part .col-3 {
+		width: 50%;
+	}
+
+	.main-navigation li {
+		padding: 10px 7px;
+	}
+}
+
+/* ---------------------------------------------------------------------------- */
+@media screen and (max-width:999px) {
+	.main-navigation a {
+		font-size: 16px;
+	}
+
+	.main-navigation li {
+		padding: 10px;
+	}
+
+	.main-navigation {
+		width: 100%;
+		padding: 67px 0;
+		text-align: end;
+	}
+
+	.score-slider .slick-prev,
+	.score-slider .slick-prev:focus {
+		padding: 0;
+		left: -32px;
+		background-size: 30%;
+		width: 23px;
+	}
+
+	.score-slider .slick-next,
+	.score-slider .slick-next:focus {
+		padding: 0;
+		right: -39px;
+		background-size: 30%;
+		width: 23px;
+	}
+
+	.slide.slick-slide.slick-current.slick-active::before {
+		height: 5px;
+	}
+
+	.menu-toggle {
+		position: relative;
+		width: 70px;
+		height: 70px;
+		background: transparent;
+		box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.08);
+		border-radius: 10px;
+		cursor: pointer;
+		overflow: hidden;
+		display: inline-block;
+	}
+
+	.menu-toggle span {
+		position: absolute;
+		width: 40px;
+		height: 4px;
+		background: #fff;
+		border-radius: 10px;
+		transition: 0.5s;
+		left: 8px;
+	}
+
+	.menu-toggle span:nth-child(1) {
+		transform: translateY(-15px);
+		width: 25px;
+		left: 15px;
+	}
+
+	.menu-toggle.active span:nth-child(1) {
+		width: 40px;
+		transform: translateY(0) rotate(45deg);
+		transition-delay: 0.125s;
+	}
+
+	.menu-toggle span:nth-child(2) {
+		transform: translateY(15px);
+		width: 15px;
+		left: 15px;
+	}
+
+	.menu-toggle.active span:nth-child(2) {
+		width: 40px;
+		transform: translateY(0) rotate(315deg);
+		transition-delay: 0.25s;
+	}
+
+	.menu-toggle.active span:nth-child(3) {
+		transform: translateX(60px);
+	}
+
+	.score-slider.slick-initialized.slick-slider {
+		display: none;
+	}
+
+	.menu-toggle span {
+		width: 30px;
+		height: 2px;
+	}
+
+	.menu-toggle span:nth-child(2) {
+		transform: translateY(10px);
+		width: 15px;
+		left: 9px;
+	}
+
+	.menu-toggle span:nth-child(1) {
+		transform: translateY(-10px);
+		width: 20px;
+		left: 9px;
+	}
+
+	.menu-toggle {
+		width: 50px;
+		height: 50px;
+	}
+
+	.menu-toggle.active span:nth-child(2),
+	.menu-toggle.active span:nth-child(1) {
+		width: 30px;
+	}
+
+	.nav-and-social {
+		flex-direction: column;
+	}
+
+	.header-top {
+		position: absolute;
+		top: 0;
+		padding: 0 0 0 20px;
+	}
+
+	.social-icon-part {
+		max-width: 100%;
+		justify-content: end;
+	}
+
+	.search-form {
+		border: 0;
+	}
+
+	.social-back {
+		display: none;
+	}
+
+	.search-container-mobile {
+		display: block;
+		padding: 40px 0 0 0;
+	}
+
+	.menu-pri-menu-container {
+		padding: 60px 0 0 0;
+	}
+
+	.nav-and-social .d-flex {
+		justify-content: end;
+	}
+
+	.banner .main-banner.d-flex {
+		flex-wrap: wrap;
+	}
+
+	.buy-ticket-container .d-flex {
+		margin-right: 10px;
+	}
+
+	.buy-ticket-container .ticket-text {
+		padding: 47px 0;
+	}
+
+	.buy-ticket-container .bottom-row {
+		margin: 0;
+	}
+
+	.buy-ticket-container .bottom-row::before,
+	.buy-ticket-container .d-flex {
+		min-height: 100%;
+	}
+
+	.buy-ticket-container .bottom-row {
+		min-height: 140px;
+	}
+
+	.headline {
+		width: 100%;
+	}
+
+	.headline-title {
+		line-height: 30px;
+		padding: 0;
+	}
+
+	.headline-title h3 {
+		padding: 0 0 5px 10px;
+	}
+
+	.headline ul {
+		padding: 0 10px;
+	}
+
+	.grid-box-section .box-2 {
+		justify-content: space-between;
+		width: 100%;
+	}
+
+	.box-4-main .image-box {
+		width: 31%;
+	}
+
+	.left-footer {
+		padding: 0 50px 0 0;
+	}
+
+	.box-right,
+	.box-left {
+		width: 100%;
+		padding: 0;
+	}
+
+	.box-right {
+		padding: 10px 0 0 0;
+		height: auto;
+	}
+
+	.news-slider.slick-dotted.slick-slider {
+		height: 550px;
+	}
+
+	.buy-ticket-container .bottom-row::before {
+		top: -6px;
+	}
+
+	.mlr-logo {
+		left: 200px;
+	}
+
+	.show-post-section .news-post,
+	.blog-list {
+		max-width: 292px;
+	}
+
+	.partner-logo-list a {
+		max-width: 200px;
+	}
+
+	.see-all-main .col-7 {
+		width: 100%;
+	}
+
+	.main-navigation ul {
+		display: block;
+	}
+
+	.mobile-menu {
+		padding: 10px;
+		display: block;
+		position: fixed;
+		bottom: 0;
+		left: 0;
+		right: 0;
+		top: 0;
+		overflow-x: hidden;
+		overflow-y: scroll;
+		-webkit-overflow-scrolling: touch;
+		background: var(--primary-color);
+		width: 300px;
+		z-index: 9999;
+		transform: translateX(-100%);
+		-moz-transform: translateX(-100%);
+		-webkit-transform: translateX(-100%);
+		-o-transform: translateX(-100%);
+		-moz-transition: .5s all;
+		-webkit-transition: .5s all;
+		-o-transition: .5s all;
+	}
+
+	.main-navigation.toggled .mobile-menu {
+		transform: translateX(0);
+	}
+
+	.arrow {
+		width: 30px;
+		height: 30px;
+		position: absolute;
+		right: 0;
+		top: 20px;
+		transform: translate(-50%, -50%);
+	}
+
+	.arrow::before {
+		content: '';
+		position: absolute;
+		display: inline-block;
+		width: 10px;
+		height: 10px;
+		border-right: 2px solid #fff;
+		border-bottom: 2px solid #fff;
+		transform: rotate(45deg);
+		transition: transform 0.3s ease;
+		margin: 0 auto;
+		left: 0;
+		right: 0;
+		top: 45%;
+	}
+
+	.open .arrow::before {
+		transform: rotate(225deg);
+	}
+
+	.main-navigation ul ul {
+		float: none;
+		position: static;
+	}
+
+	.sub-menu {
+		height: 0;
+	}
+
+	.open .sub-menu {
+		height: 100%;
+		transition: all 0.3s linear;
+		margin-top: 10px;
+	}
+
+	.match-time-date {
+		max-width: 100%;
+		padding: 20px 40px;
+	}
+
+	.match {
+		flex-wrap: wrap;
+	}
+
+	.match-details-part {
+		width: 100%;
+		margin: 20px 0;
+	}
+
+	.last-part {
+		width: 100%;
+		justify-content: center;
+		padding: 20px;
+	}
+
+	.channel-ticket-part {
+		max-width: 100%;
+		justify-content: center;
+		padding: 20px 0;
+	}
+
+	.match-points-fullform ul li {
+		padding: 10px 19px 10px 0;
+	}
+
+	.standings-table thead tr {
+		width: 79%;
+	}
+
+	.team-store-section .col-3 {
+		width: 50%;
+	}
+
+	.team-store-section .banner-text>h3 {
+		font-size: 24px;
+	}
+
+	.store-item .col-5:last-child {
+		padding: 60px 0 0 0;
+	}
+
+	.thumbnails-slider {
+		max-width: 280px;
+	}
+
+	.thumbnails-slider .thumbnail-item {
+		max-width: 85px;
+		margin: 0 22px;
+	}
+
+	.single-news .single-news-post {
+		width: 100%;
+	}
+
+	.main-content-part .col-7,
+	.main-content-part .col-3 {
+		width: 100%;
+		padding: 0;
+	}
+
+	.main-content-part .col-3 {
+		padding-top: 20px;
+	}
+
+	.single-news-post .news-post {
+		margin: 0 30px 0 0;
+	}
+
+	.content p:nth-child(2) img {
+		margin: 0;
+	}
+
+	#gform_wrapper_2 {
+		width: 100%;
+	}
+
+	#gform_fields_2 input,
+	.gform-theme--foundation .gfield textarea.large {
+		padding: 20px;
+		font-size: 18px;
+	}
+
+	#gform_fields_2 #field_2_1 .gfield_label.gform-field-label {
+		font-size: 18px;
+		padding: 0 0 5px 0;
+	}
+
+	#gform_fields_2 {
+		--gf-form-gap-y: 20px;
+	}
+
+	.single-news #gform_submit_button_2 {
+		font-size: 16px;
+		padding: 14px 60px;
+	}
+
+	#gform_submit_button_2 {
+		margin: 0;
+	}
+
+	.woocommerce ul.products li {
+		width: 50%;
+	}
+}
+
+/* ---------------------------------------------------------------------------- */
+@media screen and (max-width:768px) {
+	.main-navigation li {
+		padding: 10px 6px;
+	}
+
+	.score-slider .slick-prev,
+	.score-slider .slick-prev:focus {
+		border: none;
+		left: -26px;
+	}
+
+	.score-slider .slick-next,
+	.score-slider .slick-next:focus {
+		border: none;
+	}
+
+	.social-icon-part {
+		max-width: 100%;
+	}
+
+	.team-first-row {
+		padding: 15px 10px 0 15px;
+	}
+
+	.search-container {
+		width: 44%;
+	}
+
+	.footer-top .d-flex {
+		flex-wrap: wrap;
+	}
+
+	.footer-logo {
+		padding: 40px 0 0;
+	}
+
+	.right-footer {
+		padding: 40px 0 30px;
+	}
+
+	.social-button {
+		margin: 0 18px;
+	}
+
+	footer .footer-logo .d-flex {
+		padding-right: 0;
+	}
+
+	footer .all-right-reserved {
+		padding: 20px 0;
+	}
+
+	.dropdown {
+		max-width: 260px;
+	}
+
+	.box-4-main .image-box {
+		width: 52%;
+	}
+
+	.match-score-details {
+		column-count: 2;
+	}
+
+	.mlr-logo {
+		left: 180px;
+	}
+
+	.news-slider .slick-dots {
+		top: 310px;
+	}
+
+	.show-post-section .news-post,
+	.blog-list {
+		max-width: 290px;
+	}
+
+	.leader {
+		max-width: 250px;
+	}
+
+	.team-store-section .col-3 {
+		width: 100%;
+	}
+
+	.team-store-section .col {
+		padding: 0;
+	}
+
+	.team-store-section .row {
+		margin: 0;
+	}
+
+	.team-store-section .full-team-logo {
+		padding: 20px 0;
+	}
+
+	.team-store-section .banner-image img {
+		height: 192px;
+		object-fit: cover;
+	}
+
+	.gallery-item img {
+		max-width: 300px;
+	}
+
+	.image-gallery {
+		margin-right: 0;
+	}
+}
+
+/* ---------------------------------------------------------------------------- */
+@media screen and (max-width:640px) {
+	.buy-ticket-container {
+		flex-direction: column;
+	}
+
+	.buy-ticket-container a {
+		width: 100%;
+	}
+
+	.news-slider.slick-dotted.slick-slider {
+		margin: 0;
+		height: 600px;
+	}
+
+	.news-slider .slick-dots {
+		top: 560px;
+	}
+
+	.buy-ticket-container .d-flex {
+		margin: 0 0 5px 0;
+	}
+
+	.dropdown {
+		max-width: 50%;
+		clip-path: none;
+		border: none;
+		padding: 0;
+		margin: 10px 0 0 0;
+	}
+
+	.dropdown::before {
+		clip-path: none;
+	}
+
+	.top-title-container .title {
+		line-height: 42px;
+	}
+
+	.top-title-container {
+		justify-content: center;
+	}
+
+	.page-content,
+	.entry-content,
+	.entry-summary {
+		margin: 0;
+	}
+
+	.col-5 {
+		width: 100%;
+	}
+
+	.mlr-logo {
+		left: 107px;
+	}
+
+	.top-title-container::before {
+		background-color: transparent;
+	}
+
+	.dropbtn {
+		padding: 10px;
+		clip-path: border-box;
+	}
+
+	.leader {
+		max-width: 100%;
+	}
+
+	.standings-table thead tr {
+		width: 70%;
+	}
+
+	.standings-table tbody tr td:first-child {
+		font-size: 20px;
+	}
+
+	.standings-table tbody tr td {
+		font-size: 16px;
+	}
+
+	.standings-table tbody tr td img {
+		width: 100%;
+		min-width: 70px;
+	}
+
+	.all-team-details .col-4 {
+		margin: 10px 0 20px 0;
+		width: 50%;
+		padding: 0 10px;
+	}
+
+	.team-store-section .row,
+	.woocommerce ul.products {
+		margin: 0px;
+	}
+
+	.woocommerce ul.products li {
+		width: 100%;
+		padding: 20px;
+	}
+
+	.post-thumbnail {
+		min-height: 100%;
+	}
+
+	.woocommerce ul.products li {
+		display: block;
+	}
+}
+
+/* ---------------------------------------------------------------------------- */
+@media screen and (max-width:480px) {
+	h1 {
+		font-size: 23px;
+		line-height: 30px;
+	}
+
+	.match-score-details {
+		column-count: 1;
+	}
+
+	.post-content p {
+		font-size: 16px;
+		line-height: 22px;
+	}
+
+	.social-icon-part {
+		max-width: 87%;
+	}
+
+	.search-container {
+		display: none;
+	}
+
+	.search-toggle {
+		visibility: hidden;
+	}
+
+	.dropbtn {
+		padding: 10px 83px;
+		background-color: transparent;
+	}
+
+	h3 {
+		font-size: 20px;
+	}
+
+	.news-slider.slick-dotted.slick-slider {
+		height: 630px;
+	}
+
+	.mlr-logo {
+		left: 31px;
+	}
+
+	.right-post .d-flex {
+		flex-direction: column;
+	}
+
+	.right-post .featured-image,
+	.box-right .single-main-text {
+		width: 100%;
+	}
+
+	.news-slider .post-thumbnail {
+		height: 252px;
+	}
+
+	.news-slider .slick-dots {
+		top: 220px;
+	}
+
+	.news-slider .slick-list {
+		height: 490px !important;
+	}
+
+	.news-slider.slick-dotted.slick-slider {
+		height: 500px;
+	}
+
+	.official-text p {
+		padding: 0;
+	}
+
+	.buy-ticket-container .bottom-row::before {
+		background-size: 100%;
+	}
+
+	.buy-ticket-container .bottom-row {
+		min-height: 85px;
+	}
+
+	.buy-ticket-container .bottom-row::before {
+		background-size: 100%;
+	}
+
+	.headline ul li {
+		padding: 5px 0;
+	}
+
+	.headline ul li a {
+		line-height: 0;
+		font-size: 15px;
+	}
+
+	.top-title-container {
+		margin: 0;
+	}
+
+	.top-title-container .title {
+		padding: 20px 0 30px;
+		line-height: 28px;
+	}
+
+	.box-left .left-post:not(:first-child) {
+		width: 100%;
+	}
+
+	.box-right .box-description {
+		padding-bottom: 0;
+	}
+
+	.see-all-section .match-row .team-logo {
+		width: 50px;
+	}
+
+	.show-post-section .news-post {
+		max-width: 195px;
+	}
+
+	.show-post-section .news-post,
+	.home #posts-container .news-post {
+		max-width: 100%;
+		margin: 0 0 20px 0;
+		width: 100%;
+	}
+
+	.dropdown,
+	.dropdown::before {
+		display: none;
+	}
+
+	.main-navigation.toggled .mobile-menu {
+		width: 100%;
+	}
+
+	.menu-pri-menu-container {
+		padding: 0;
+	}
+
+	.main-navigation ul li:hover>ul {
+		position: inherit;
+		float: none;
+	}
+
+	.site-branding {
+		max-width: 160px;
+		min-height: 175px;
+	}
+
+	.custom-logo-link {
+		width: 130px;
+	}
+
+	.schudule-section .team {
+		padding: 0 15px 0 10px;
+	}
+
+	.match-details-part {
+		flex-wrap: wrap;
+		justify-content: center;
+	}
+
+	.match-details-part .team:first-child {
+		flex-direction: row-reverse;
+	}
+
+	.versus-text {
+		padding: 20px 0;
+	}
+
+	.schudule-section .team-logo {
+		width: 90px;
+		margin: 0 10px 0 0;
+	}
+
+	.score-logo {
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+		width: 100%;
+		margin: 0;
+	}
+
+	.team-name {
+		width: 100%;
+	}
+
+	.team-score,
+	.score-logo {
+		margin: 0;
+	}
+
+	.live-schedule-text,
+	.buy-ticket {
+		max-width: 100%;
+		text-align: center;
+	}
+
+	.team-top select {
+		margin: 20px 0px;
+		width: 100%;
+	}
+
+	.match-time-date {
+		padding: 20px;
+	}
+
+	.match-points-fullform ul li {
+		padding: 5px 17px 5px 0;
+	}
+
+	.match-points-fullform {
+		padding: 0 0 10px 0;
+	}
+
+	.match-rules ul {
+		padding: 10px 0 10px 20px;
+	}
+
+	.standings-table tbody tr td img {
+		min-width: 50px;
+	}
+
+	.social-button {
+		margin: 0 14px;
+	}
+
+	.left-footer {
+		padding: 0 0 10px 0;
+	}
+
+	.all-team-details .col-4 {
+		width: 100%;
+	}
+}
